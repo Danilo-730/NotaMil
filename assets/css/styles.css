@@ -253,7 +253,7 @@ body.dark-theme{
 }
 
 .nav__link{
-  color: white;
+  color: black;
   font-weight: var(--font-medium);
   transition: .3s;
 }
