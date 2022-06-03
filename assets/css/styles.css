@@ -798,6 +798,12 @@ body.dark-theme{
     grid-template-columns: .6fr;
     justify-content: center;
   }
+  
+  .nav__link{
+  color: black;
+  font-weight: var(--font-medium);
+  transition: .3s;
+ }
 
 }
 
@@ -857,7 +863,11 @@ body.dark-theme{
     padding: 10rem 0 5rem;
   }
 
-  
+  .nav__link{
+  color: black;
+  font-weight: var(--font-medium);
+  transition: .3s;
+ }
   .home__data{
     margin-top: 50px;
   }
